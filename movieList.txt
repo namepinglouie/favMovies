@@ -1,6 +1,10 @@
 --Ping's Movies--
 Spirited Away
 Kiki's Delivery Service
+--Ping's Movies Added--
+Wall-E
+Frozen
+Frozen II
 
 --Erian's Favorite movies--
 Snatch
